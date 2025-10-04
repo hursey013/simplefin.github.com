@@ -60,7 +60,7 @@ a.item:hover {
 }
 </style>
 
-Here is some software that supports the SimpleFIN Protocol.  Being listed below does <strong>not</strong> imply that we endorse or guarantee the third party software.
+Here is some software that supports the SimpleFIN Protocol. Being listed below does <strong>not</strong> imply that we endorse or guarantee the third party software.
 
 To add to this list, <a href="https://github.com/simplefin/simplefin.github.com/blob/master/ecosystem.md">fork this repo</a> and submit a pull request.
 
@@ -94,6 +94,11 @@ To add to this list, <a href="https://github.com/simplefin/simplefin.github.com/
 <a class="item" href="https://github.com/CodeWithCJ/SparkyBudget" target="_blank">
   <div class="item-title"><img src="/img/applogos/SparkyBudget.png" title="Sparky Budget">Sparky Budget</div>
   <div class="item-desc">Simple Budgeting, Powerful Results</div>
+</a>
+
+<a class="item" href="https://github.com/hursey013/balance-bot" target="_blank">
+  <div class="item-title"><img src="/img/applogos/balance-bot.svg" title="balance-bot">balance-bot</div>
+  <div class="item-desc">Send notifications for balance updates</div>
 </a>
 
 </div>
